@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,700,1,200" />
+    <link rel="stylesheet" href="Style/_AllClass.css">
+    <link rel="stylesheet" href="Style/Menu.css">
+
+    <title>AnimeZ</title>
+</head>
+
+<body class=" DarkMode">
+    <div class="Menu DarkMode">
+        <div class="NavBarItems">
+            <button href="/" class="Menu_B NavItem Button_Rounded DarkMode">
+                <Span class="DarkMode material-symbols-rounded">menu</Span>
+                <p class="DarkMode">Menu</p>
+            </button>
+            <a href="/" class="Logo NavItem Button_Rounded DarkMode">
+                <Span class="DarkMode material-symbols-rounded">android</Span>
+                <p class="DarkMode">AnimeZ</p>
+            </a>
+            <div class="DarkMode UserInfo">
+                <P id="UserName" class="DarkMode">Unknown</P>
+                <P id="UserName" class="DarkMode">Unknown@Sus.com</P>
+                <button href="/" class="setting Button_Rounded DarkMode">
+                    <Span class="DarkMode material-symbols-rounded">settings</Span>
+                    <p class="DarkMode">Profile</p>
+                </button>
+                <button href="/" class="logout Button_Rounded DarkMode">
+                    <Span class="DarkMode material-symbols-rounded">logout</Span>
+                    <p class="DarkMode">Logout</p>
+                </button>
+            </div>
+            <button class="DarkMode NavItem Profile Button_Rounded">
+                <Span class="DarkMode material-symbols-rounded">account_circle</Span>
+            </button>
+
+        </div>
+    </div>
+    <div class="SideMenu">
+        <button onclick="DarkMode_()" id="_darkMode" class=" Dark_BTN Button_Rounded DarkMode">
+            <Span id="_DarkModeICON" class="DarkMode material-symbols-rounded">sunny</Span>
+            <p id="_Dark_Text" class="DarkMode">Light Mode</p>
+        </button>
+    </div>
+</body>
+<script src="Style/Main.js"></script>
+
+</html>

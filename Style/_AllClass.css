@@ -1,0 +1,22 @@
+.DarkMode {
+    background-color: rgb(40, 40, 40);
+    color: #fff;
+}
+
+.Button_Rounded {
+    transition: all 100ms;
+    border-radius: 10px;
+    box-shadow: -5px 5px rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    user-select: none;
+}
+
+.Button_Rounded:hover {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.Button_Rounded:active {
+    border: 1px solid rgba(0, 0, 0, 0.0);
+    box-shadow: -5px 5px rgba(0, 0, 0, 0.0);
+    transform: translate(-3px, 3px);
+}
