@@ -27,7 +27,6 @@
 
 .AnimeImg {
     grid-row: 1;
-    z-index: 0;
 }
 
 .AnimeImg img {
