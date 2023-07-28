@@ -77,8 +77,6 @@ function SetInfo(Data) {
     Holder_.appendChild(Title_);
     Holder_.appendChild(Infos_);
 
-    console.log(Data["status"]);
-
     Content.appendChild(Button);
 }
 RecentEpisoded_();
