@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "Anime_Z/static/css/main.a921cbb9.css",
-    "main.js": "Anime_Z/static/js/main.473f9d73.js",
+    "main.css": "/Anime_Z/static/css/main.a921cbb9.css",
+    "main.js": "/Anime_Z/static/js/main.473f9d73.js",
     "static/js/787.c54a672d.chunk.js": "Anime_Z/static/js/787.c54a672d.chunk.js",
     "static/media/logo.png": "/Anime_Z/static/media/logo.ae037eb935c4920cf83c.png",
     "index.html": "/Anime_Z/index.html",
@@ -10,7 +10,7 @@
     "787.c54a672d.chunk.js.map": "/Anime_Z/static/js/787.c54a672d.chunk.js.map"
   },
   "entrypoints": [
-    "Anime_Z/static/css/main.a921cbb9.css",
-    "Anime_Z/static/js/main.473f9d73.js"
+    "/Anime_Z/static/css/main.a921cbb9.css",
+    "/Anime_Z/static/js/main.473f9d73.js"
   ]
 }
