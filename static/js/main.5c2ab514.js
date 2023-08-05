@@ -9327,7 +9327,7 @@
         t = n(791),
         r = n.t(t, 2),
         a = n(250),
-        o = n.p + "/Anime_Z/static/media/logo.ae037eb935c4920cf83c.png";
+        o = n.p + "Anime_Z/static/media/logo.ae037eb935c4920cf83c.png";
       function i(e) {
         if (Array.isArray(e)) return e;
       }
