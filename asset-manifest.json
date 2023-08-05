@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a921cbb9.css",
-    "main.js": "/static/js/main.473f9d73.js",
-    "static/js/787.c54a672d.chunk.js": "/static/js/787.c54a672d.chunk.js",
-    "static/media/logo.png": "/static/media/logo.ae037eb935c4920cf83c.png",
-    "index.html": "/index.html",
-    "main.a921cbb9.css.map": "/static/css/main.a921cbb9.css.map",
-    "main.473f9d73.js.map": "/static/js/main.473f9d73.js.map",
-    "787.c54a672d.chunk.js.map": "/static/js/787.c54a672d.chunk.js.map"
+    "main.css": "Anime_Z/static/css/main.a921cbb9.css",
+    "main.js": "Anime_Z/static/js/main.473f9d73.js",
+    "static/js/787.c54a672d.chunk.js": "Anime_Z/static/js/787.c54a672d.chunk.js",
+    "static/media/logo.png": "/Anime_Z/static/media/logo.ae037eb935c4920cf83c.png",
+    "index.html": "/Anime_Z/index.html",
+    "main.a921cbb9.css.map": "/Anime_Z/static/css/main.a921cbb9.css.map",
+    "main.473f9d73.js.map": "/Anime_Z/static/js/main.473f9d73.js.map",
+    "787.c54a672d.chunk.js.map": "/Anime_Z/static/js/787.c54a672d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a921cbb9.css",
-    "static/js/main.473f9d73.js"
+    "Anime_Z/static/css/main.a921cbb9.css",
+    "Anime_Z/static/js/main.473f9d73.js"
   ]
 }
