@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/Anime_Z/static/css/main.9a51c530.css",
-    "main.js": "/Anime_Z/static/js/main.f063b8e0.js",
-    "static/js/725.0dd82a69.chunk.js": "/Anime_Z/static/js/725.0dd82a69.chunk.js",
-    "static/media/logo.png": "/Anime_Z/static/media/logo.ae037eb935c4920cf83c.png",
-    "index.html": "/Anime_Z/index.html",
-    "main.9a51c530.css.map": "/Anime_Z/static/css/main.9a51c530.css.map",
-    "main.f063b8e0.js.map": "/Anime_Z/static/js/main.f063b8e0.js.map",
-    "725.0dd82a69.chunk.js.map": "/Anime_Z/static/js/725.0dd82a69.chunk.js.map"
+    "main.css": "Anime_Z/static/css/main.fadf01ff.css",
+    "main.js": "Anime_Z/static/js/main.9fa3dd6b.js",
+    "static/media/logo.png": "Anime_Z/static/media/logo.ae037eb935c4920cf83c.png",
+    "index.html": "Anime_Z/index.html",
+    "main.fadf01ff.css.map": "Anime_Z/static/css/main.fadf01ff.css.map",
+    "main.9fa3dd6b.js.map": "Anime_Z/static/js/main.9fa3dd6b.js.map"
   },
   "entrypoints": [
-    "/Anime_Z/static/css/main.9a51c530.css",
-    "/Anime_Z/static/js/main.f063b8e0.js"
+    "Anime_Z/static/css/main.fadf01ff.css",
+    "Anime_Z/static/js/main.9fa3dd6b.js"
   ]
 }
