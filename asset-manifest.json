@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anime_Z/static/css/main.d81d8c0a.css",
+    "main.js": "/Anime_Z/static/js/main.c28c2f5c.js",
+    "static/media/logo.png": "/Anime_Z/static/media/logo.ae037eb935c4920cf83c.png",
+    "static/media/warning.png": "/Anime_Z/static/media/warning.4c7f0906293d173128cf.png",
+    "index.html": "/Anime_Z/index.html",
+    "main.d81d8c0a.css.map": "/Anime_Z/static/css/main.d81d8c0a.css.map",
+    "main.c28c2f5c.js.map": "/Anime_Z/static/js/main.c28c2f5c.js.map"
+  },
+  "entrypoints": [
+    "/Anime_Z/static/css/main.d81d8c0a.css",
+    "/Anime_Z/static/js/main.c28c2f5c.js"
+  ]
+}
